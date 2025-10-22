@@ -49,7 +49,7 @@ grep "Failed" /var/log/auth.log
 Key takeaway: Always search for the right keywords when investigating logs
 
 There are 5 failed log ins. This is good to be aware of these logs in the real world.
-<img width="1002" height="154" alt="image" src="https://github.com/user-attachments/assets/8a11427d-4816-4481-90f9-3fa58edc63d6" />
+
 
 ### Delete the Test Users
 
